@@ -1,0 +1,17 @@
+com/cleanup/todoc/test/BuildConfig.java
+ com.cleanup.todoc.test.BuildConfig
+com/cleanup/todoc/utils/RecyclerViewMatcher.java
+ com.cleanup.todoc.utils.RecyclerViewMatcher
+ com.cleanup.todoc.utils.RecyclerViewMatcher$1
+com/cleanup/todoc/utils/TestUtils.java
+ com.cleanup.todoc.utils.TestUtils
+ com.cleanup.todoc.utils.TestUtils$1
+ com.cleanup.todoc.utils.TestUtils$ActionOnItemViewAtPositionViewAction
+ com.cleanup.todoc.utils.TestUtils$ScrollToPositionViewAction
+com/cleanup/todoc/TaskDaoTest.java
+ com.cleanup.todoc.TaskDaoTest
+com/cleanup/todoc/MainActivityInstrumentedTest.java
+ com.cleanup.todoc.MainActivityInstrumentedTest
+com/cleanup/todoc/utils/LiveDataTestUtil.java
+ com.cleanup.todoc.utils.LiveDataTestUtil
+ com.cleanup.todoc.utils.LiveDataTestUtil$1
